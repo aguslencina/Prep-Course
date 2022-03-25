@@ -1,5 +1,6 @@
 // No cambies los nombres de las funciones.
 
+// 1
 function deObjetoAmatriz(objeto){
   // Escribe una función que convierta un objeto en una matriz, donde cada elemento representa 
   // un par clave-valor en forma de matriz.
@@ -12,7 +13,7 @@ function deObjetoAmatriz(objeto){
   //Escribe tu código aquí
 }
 
-
+// 2
 function numberOfCharacters(string) {
   //La función recibe un string. Recorre el srting y devuelve el caracter con el número de veces que aparece 
   //en formato par clave-valor.
@@ -20,7 +21,7 @@ function numberOfCharacters(string) {
   //Escribe tu código aquí
 }
 
-
+// 3
 function capToFront(s) {
   //Realiza una función que reciba como parámetro un string y mueva todas las letras mayúsculas
   //al principio de la palabra.
@@ -28,7 +29,7 @@ function capToFront(s) {
   //Escribe tu código aquí
 }
 
-
+// 4
 function asAmirror(str) {
   //La función recibe una frase. 
   //Escribe una función que tome la frase recibida y la devuelva de modo tal que se pueda leer de izquierda a derecha 
@@ -37,7 +38,7 @@ function asAmirror(str) {
   //Escribe tu código aquí
 } 
 
-
+// 5
 function capicua(numero){
   //Escribe una función, la cual recibe un número y determina si es o no capicúa.
   //La misma debe retornar: "Es capicua" si el número se número que se lee igual de 
@@ -45,21 +46,21 @@ function capicua(numero){
   //Escribe tu código aquí
 }
 
-
+// 6
 function deleteAbc(cadena){
   //Define una función que elimine las letras "a", "b" y "c" de la cadena dada 
   //y devuelva la versión modificada o la misma cadena, en caso de contener dichas letras.
   //Escribe tu código aquí
 }
 
-
+// 7
 function sortArray(arr) {
   //La función recibe una matriz de strings. Ordena la matriz en orden creciente de longitudes de cadena
   //Ej: Recibe ---> ["You", "are", "beautiful", "looking"] || Devuelve ---> [“You", "are", "looking", "beautiful"]
   //Escribe tu código aquí
 }
 
-
+// 8
 function buscoInterseccion(arreglo1, arreglo2){
   //Existen dos arrays, cada uno con 5 números. A partir de ello, escribir una función que permita 
   //retornar un nuevo array con la intersección de ambos elementos. (Ej: [4,2,3] unión [1,3,4] = [3,4].
